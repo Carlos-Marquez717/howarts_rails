@@ -26,15 +26,15 @@ development:
   database: howarts_rails_development
 
  
-  username: postgres
+  #username: 
 
   
-  password: 123456
+  #password: 
 
 
-  host: localhost
+  #host: 
 
-  port: 5432
+  #port: 
 
  
 test:
@@ -42,15 +42,15 @@ test:
   database: howarts_rails_test
 
 
-  username: postgres
+  #username: 
 
   # The password associated with the postgres role (username).
-  password: 123456
+  #password: 
 
-  host: localhost
+  #host: 
 
 
-  port: 5432
+  #port: 
 
 production:
   <<: *default

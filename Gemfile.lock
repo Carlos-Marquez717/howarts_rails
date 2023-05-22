@@ -211,6 +211,7 @@ GEM
 
 PLATFORMS
   x64-mingw-ucrt
+  platforms x86_64‐linux
 
 DEPENDENCIES
   bootsnap
